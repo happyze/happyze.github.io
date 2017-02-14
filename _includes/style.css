@@ -658,7 +658,7 @@ h3.about {
   display: inline-block;
   color: #fff;
   font-size: 18px;
-  background: #000;
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .home-follow {
