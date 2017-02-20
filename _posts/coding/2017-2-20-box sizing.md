@@ -9,18 +9,13 @@ category: coding
 ### css3 box-sizing属性  
 
 box-sizing属性可以为三个值之一：content-box（default），border-box，padding-box。
-
 content-box，border和padding不计算入width之内
-
 padding-box，padding计算入width内
-
 border-box，border和padding计算入width之内，其实就是怪异模式了~  
-
 ie8+浏览器支持content-box和border-box；
-
 ff则支持全部三个值。
 
-##### 使用时：  
+##### 使用时:  
 
 ```
 -webkit-box-sizing: 100px; // for ios-safari, android
