@@ -15,8 +15,7 @@ border-box，border和padding计算入width之内，其实就是怪异模式了~
 ie8+浏览器支持content-box和border-box；
 ff则支持全部三个值。
 
-##### 使用时  
-
+使用时  
 
 ```
 -webkit-box-sizing: 100px; // for ios-safari, android
