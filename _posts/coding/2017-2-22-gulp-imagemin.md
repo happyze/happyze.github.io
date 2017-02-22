@@ -9,7 +9,7 @@ category: coding
 
 装包    
 
-需要安装两个包，一个是 `gulp` `gulp-imagemin` ，另一个是 `imagemin-pngquant` 。  
+需要安装三个包，一个是 `gulp` `gulp-imagemin` ，另一个是 `imagemin-pngquant` 。  
 
 ```
 cnpm i -D  gulp gulp-imagemin imagemin-pngquant
