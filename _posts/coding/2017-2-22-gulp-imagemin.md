@@ -7,7 +7,7 @@ category: coding
 
 ### 使用 imagemin 来压缩图片  
 
-##### 装包    
+装包    
 
 需要安装两个包，一个是 `gulp` `gulp-imagemin` ，另一个是 `imagemin-pngquant` 。  
 
@@ -15,7 +15,7 @@ category: coding
 cnpm i -D  gulp gulp-imagemin imagemin-pngquant
 ```
 
-##### gulpfile.js 内容  
+gulpfile.js 内容  
 
 ```
 var gulp = require("gulp")
