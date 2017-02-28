@@ -36,5 +36,5 @@ gulp.task('imagemin', function(){
 ##### 注:  
 
 gulpfile.js 内容其实重点是要搞明白两句  
-1. `return gulp.src('src/images/*')` 输入文件的地方也就是src下的images文件里面的某张图片  
-2. `.pipe(gulp.dest('dist/images'))` 输出的文件的地方dist下的images文件夹里面  
+1. `return gulp.src('src/images/*')` 输入文件的地方也就是src下的images文件里面的某张图片 。 
+2. `.pipe(gulp.dest('dist/images'))` 输出的文件的地方dist下的images文件夹里面 。
