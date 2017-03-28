@@ -36,4 +36,31 @@ componentWillMount(){
     axios.get("https://graph.facebook.com/me/?access_token=EAANF5R1JZCcwBAIC0WyTJOCWip8iNXj8yJOn7JVmPQdVlX85q8Jt8HY1oGAqskGiXr1Q8nZAIuhiqZAZAJoQdN82fzD1rjImHk62zcFZA5QANv2tZBJmo8ye9LWH6aAjpuxNlaFyhp5njZBPaVIiPlRQXZBGmpx8jaCdLdspw9p1BReTGZB7ml0iDgHOqFmlskYhW2QEDzKfxZCwZDZD",{})
     .then(res => console.log(res))
   }
-```
+```  
+
+#### 注视：  
+
+｀https://graph.facebook.com/me/?｀  
+
+me可以换成自己的id  
+
+id可以在开发者应用里面找到如图:  
+
+![](../../images/myblog/facebook5.jpg)   
+
+应用授权后会形成一个token  
+
+
+下面提供几个有趣的api  
+
+好友列表 (Friends) https://graph.facebook.com/me/friends?access_token={token}
+
+新闻 (News feed)https://graph.facebook.com/me/home?access_token={token}
+
+用户喜好 (Likes)https://graph.facebook.com/me/likes?access_token={token}  
+
+当然facebook还有很多api但是需要开发者去审核通过后才可以使用  
+
+如图：  
+
+![](../../images/myblog/facebook6.jpg)
