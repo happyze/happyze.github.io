@@ -63,4 +63,4 @@ id可以在开发者应用里面找到如图:
 
 如图：  
 
-![](../../images/myblog/facebook6.jpg)
+![](../../images/myblog/facebook6.png)
