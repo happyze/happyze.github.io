@@ -1,7 +1,7 @@
 ---
 layout: post
 title: facebook api配置
-description: 如何配置 facebook api详细介绍
+description: 如何配置 facebook 应用开发
 category: coding
 ---
 
