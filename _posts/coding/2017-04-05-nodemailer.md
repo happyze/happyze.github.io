@@ -14,7 +14,7 @@ category: coding
 npm install nodemailer --save
 ```  
 
-### 二、调用  
+2. 调用  
 
 ```
 var nodemailer = require("nodemailer");
