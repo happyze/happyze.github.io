@@ -13,7 +13,6 @@ category: coding
 ```
 npm install nodemailer --save
 ```  
-
 2. 调用  
 
 ```
