@@ -42,5 +42,5 @@ const transporter = nodemailer.createTransport({
     }
     console.log('发送成功');
   });
-
-## 赶快发邮件喽
+```
+## 赶快发邮件喽!!!
